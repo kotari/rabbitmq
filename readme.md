@@ -4,7 +4,9 @@ To start rabbitmq on minikube, the following components are installed
 3) kustomize
 
 minikube is started with the following command
+
 minikube start --driver=virtualbox
+
 when tried to start minikube with default driver docker ran into issues in download in images from docker so reverted to virtual box
 
 once the minikube is started run two additional commands to allow port forwarding
