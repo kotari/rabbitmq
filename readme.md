@@ -26,5 +26,3 @@ Created conda environment and pip installed pika
 To start server python server/rpc_server.py
 
 To submit a request python client_rpc_client.py
-
-Testing wsl
